@@ -1,7 +1,7 @@
 /* COMPORTAMIENTO DE LA CALCULADORA */
 
 function sumar() {
-    const valor1 = 200;
-    const valor2 = 400;
+    const valor3 = 3.5;
+    const valor4 = 9.2;
     const total = valor1 + valor2;
 }
