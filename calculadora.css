@@ -9,7 +9,15 @@ body {
 h1 {
     color: rgb(167, 44, 44);
     text-align:center;
+<<<<<<< HEAD
     background-color: rgb(2, 95, 22);
+=======
+    background-color: yellow;
+    margin: 0 auto;
+    padding:0;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+>>>>>>> rama2
 }
 
 
